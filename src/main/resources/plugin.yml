@@ -1,0 +1,10 @@
+name: ClansPlugin
+version: '${project.version}'
+main: com.russiankingdom2.clans.clansplugin.ClansPlugin
+api-version: 1.16
+authors: [ masiha128 ]
+description: make clans!
+commands:
+  clans:
+    description: clans gui
+    usage: /clans
