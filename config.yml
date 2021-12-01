@@ -1,0 +1,20 @@
+#config file for SimpleClans
+
+#put "null" if you don't want to enable
+#name for clans up to 5
+clan_1: "example"
+clan_2: "example2"
+clan_3: "null"
+clan_4: "null"
+clan_5: "null"
+
+#auto magically set there team
+# this is the same as /team join clan_name player
+auto_team: "true"
+
+#position of war zone
+war_x: "0"
+war_y: "0"
+war_z: "0"
+
+#that's it!
