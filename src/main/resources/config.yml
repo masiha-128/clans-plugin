@@ -12,4 +12,9 @@ clan_5: "null"
 # this is the same as /team join clan_name player
 auto_team: "true"
 
+#position of war zone
+war_x: "0"
+war_y: "0"
+war_z: "0"
+
 #that's it!

@@ -8,3 +8,6 @@ commands:
   clans:
     description: clans gui
     usage: /clans
+  war:
+    description: tp to war zone
+    usage: /war
